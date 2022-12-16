@@ -1,0 +1,28 @@
+<app-header></app-header>
+<ion-content>
+  <ion-slides pager="true" [options]="slideOpts" color="danger">
+    <ion-slide>
+      <ion-card>
+        <app-floatbutton></app-floatbutton>
+        <img src="/assets/images/splash.png" routerLink="/tabs/libro"/>
+      </ion-card>
+    </ion-slide>
+    <ion-slide>
+      <ion-card routerLink="../inicio/ini3">
+        <ion-label>Introducción</ion-label>
+        <ion-img src="/assets/images/carlosp1.jpg"></ion-img>
+      </ion-card>
+    </ion-slide>
+    <ion-slide>
+      <ion-card routerLink="../inicio/ini4">
+        <ion-label>Sobre el Autor</ion-label>
+        <ion-img src="/assets/images/carlosp2.jpg"></ion-img>
+      </ion-card>
+    </ion-slide>
+    <ion-slide>
+      <ion-content>
+        <app-listainicio></app-listainicio>
+      </ion-content>
+    </ion-slide>
+  </ion-slides>
+</ion-content>

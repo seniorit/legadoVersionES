@@ -1,0 +1,14 @@
+[
+  {
+    "titulo": "INTRODUCCIÓN",
+    "autor": "PhD. Carlos Herrera",
+    "UrlImg": "/assets/images/carlos1.jpeg",
+    "redirecTo": "/tabs/inicio/ini3"
+  },
+  {
+    "titulo": "SOBRE EL AUTOR",
+    "autor": "PhD. Carlos Herrera",
+    "UrlImg": "/assets/images/carlos2.png",
+    "redirecTo": "/tabs/inicio/ini4"
+  }
+]

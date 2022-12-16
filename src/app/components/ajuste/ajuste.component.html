@@ -1,0 +1,36 @@
+<ion-card>
+  <ion-card-header>
+    <ion-card-title color="danger">Configuración</ion-card-title>
+  </ion-card-header>
+  <ion-card-content>
+    <section>
+      <ion-list>
+
+        <ion-item>
+          <ion-icon slot="start" color="danger" name="chatbubble-ellipses"></ion-icon>
+          <ion-label class="texto">Recibir Notificaciones</ion-label>
+          <ion-toggle color="danger" id="notificacion" (click)="setAttributeCheck()"></ion-toggle>
+        </ion-item>
+
+        <ion-item>
+          <ion-icon slot="start" name="logo-google-playstore" color="danger"></ion-icon>
+          <ion-button color="danger" expand="block"
+            href="https://play.google.com/store/apps/details?id=com.ellegadodehugochavez.ellegadoes"
+            target="_self"
+            (click)="alertMessage('<h3><b>Descargando Actualizacion!</b></h3>');">
+            Descargar Actualización
+          </ion-button>
+        </ion-item>
+
+        <ion-item>
+          <ion-icon slot="start" color="danger" name="trash"></ion-icon>
+          <ion-button color="danger" expand="block" (click)="cache()">Eliminar Memoria Cache</ion-button>
+        </ion-item>
+
+      </ion-list>
+      <ion-button (click)="cerarrModal()" slot="secondary" color="danger">
+        <ion-label>Cerrar</ion-label>
+      </ion-button>
+    </section>
+  </ion-card-content>
+</ion-card>

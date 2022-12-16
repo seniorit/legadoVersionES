@@ -1,0 +1,41 @@
+ion-label {
+  bottom: 30px;
+  left: 25px;
+  font-size: 32px;
+  font-family: Oswal;
+  text-shadow: 3px -6px 3px #020202;
+  color: #fff;
+  position: absolute;
+}
+
+ion-slides {
+  height: 100%;
+}
+
+ion-img {
+  width: 100%;
+}
+
+.swiper-slide img {
+  width: auto;
+  max-width: 100%;
+  height: auto;
+  max-height: 100%;
+}
+
+/* Smartphones (portrait) ----------- */
+@media only screen and (max-width : 360px) {
+  /* Styles */
+  .swiper-slide img {
+    width: auto;
+    max-width: 95%;
+    height: auto;
+    max-height: 95%;
+  }
+}
+
+
+
+  
+
+

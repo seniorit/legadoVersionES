@@ -1,0 +1,28 @@
+.titulo {
+  color: black;
+  font-size: 1.2rem;
+  font-weight: 600;
+  text-align: left;
+  font-family: Oswal !important;
+  padding-bottom: 0px;
+  margin-bottom: 5px;
+  margin-top: 10px;
+}
+
+ion-thumbnail{
+  width:4rem;
+  height:4rem;
+    ion-img{
+    width:4rem!important;
+    height:4rem !important;
+    border-radius: 5px;
+  }
+}
+
+label.lista {
+  text-align: justify;
+}
+
+ion-toolbar.sc-ion-searchbar-ios-h, ion-toolbar .sc-ion-searchbar-ios-h {
+  padding-top: 20px;
+}

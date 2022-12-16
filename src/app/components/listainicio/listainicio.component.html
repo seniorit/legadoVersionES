@@ -1,0 +1,11 @@
+<ion-list>
+  <ion-item *ngFor="let h of (arrayLista| async)" [routerLink]="h.redirecTo" detail>
+    <ion-thumbnail slot="start">
+      <ion-img [src]="h.UrlImg"></ion-img>
+    </ion-thumbnail>
+    <label class="lista">
+      <h2 class="titulo">{{h.titulo}}</h2>
+      <p class="autor">{{h.autor}}</p>
+    </label>
+  </ion-item>
+</ion-list>

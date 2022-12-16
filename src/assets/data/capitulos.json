@@ -1,0 +1,745 @@
+[{
+"titulo": "CHÁVEZ Y AFRICA",
+"UrlImg": "/assets/images/capitulos/africa.jpg",
+"redirecTo": "/tabs/libro/cap1"
+}, {
+"titulo": "CHÁVEZ Y LOS AFRO DESCENDIENTES",
+"UrlImg": "/assets/images/capitulos/afrodescendientes.jpg",
+"redirecTo": "/tabs/libro/cap2"
+}, {
+"titulo": "CHÁVEZ AFROINDOAMERICANO",
+"UrlImg": "/assets/images/capitulos/afroindoamericano.jpg",
+"redirecTo": "/tabs/libro/cap3"
+}, {
+"titulo": "CHÁVEZ AGITADOR",
+"UrlImg": "/assets/images/capitulos/agitador.jpg",
+"redirecTo": "/tabs/libro/cap4"
+}, {
+"titulo": "CHÁVEZ Y EL ALBA",
+"UrlImg": "/assets/images/capitulos/alba.jpg",
+"redirecTo": "/tabs/libro/cap5"
+}, {
+"titulo": "CHÁVEZ Y EL ALCA",
+"UrlImg": "/assets/images/capitulos/alca.jpg",
+"redirecTo": "/tabs/libro/cap6"
+}, {
+"titulo": "CHÁVEZ Y ALEMANIA",
+"UrlImg": "/assets/images/capitulos/alemania.jpg",
+"redirecTo": "/tabs/libro/cap7"
+}, {
+"titulo": "CHÁVEZ Y ALÍ PRIMERA",
+"UrlImg": "/assets/images/capitulos/aliprimera.jpg",
+"redirecTo": "/tabs/libro/cap8"
+}, {
+"titulo": "CHÁVEZ Y LA ALIMENTACIÓN",
+"UrlImg": "/assets/images/capitulos/alimentacion.jpg",
+"redirecTo": "/tabs/libro/cap9"
+}, {
+"titulo": "CHÁVEZ AMBIENTALISTA",
+"UrlImg": "/assets/images/capitulos/ambientalista.jpg",
+"redirecTo": "/tabs/libro/cap10"
+}, {
+"titulo": "CHÁVEZ AMIGO",
+"UrlImg": "/assets/images/capitulos/amigo.jpg",
+"redirecTo": "/tabs/libro/cap11"
+}, {
+"titulo": "CHÁVEZ Y EL AMOR",
+"UrlImg": "/assets/images/capitulos/amor.jpg",
+"redirecTo": "/tabs/libro/cap12"
+}, {
+"titulo": "CHÁVEZ ANECDÓTICO",
+"UrlImg": "/assets/images/capitulos/anecdotico.jpg",
+"redirecTo": "/tabs/libro/cap13"
+}, {
+"titulo": "CHÁVEZ ANTI IMPERIALISTA",
+"UrlImg": "/assets/images/capitulos/antimperialista.jpg",
+"redirecTo": "/tabs/libro/cap14"
+}, {
+"titulo": "CHÁVEZ Y ARGENTINA",
+"UrlImg": "/assets/images/capitulos/argentina.jpg",
+"redirecTo": "/tabs/libro/cap15"
+}, {
+"titulo": "CHÁVEZ AUTOCRÍTICO",
+"UrlImg": "/assets/images/capitulos/autocritico.jpg",
+"redirecTo": "/tabs/libro/cap16"
+}, {
+"titulo": "CHÁVEZ Y LA BANCA",
+"UrlImg": "/assets/images/capitulos/labanca.jpg",
+"redirecTo": "/tabs/libro/cap17"
+}, {
+"titulo": "CHÁVEZ Y BIELORRUSIA",
+"UrlImg": "/assets/images/capitulos/bielorrusia.jpg",
+"redirecTo": "/tabs/libro/cap18"
+}, {
+"titulo": "CHÁVEZ BOLIVARIANO",
+"UrlImg": "/assets/images/capitulos/bolivariano.jpg",
+"redirecTo": "/tabs/libro/cap19"
+}, {
+"titulo": "CHÁVEZ Y BOLIVIA",
+"UrlImg": "/assets/images/capitulos/bolivia.jpg",
+"redirecTo": "/tabs/libro/cap20"
+}, {
+"titulo": "CHÁVEZ Y BRASIL",
+"UrlImg": "/assets/images/capitulos/brasil.jpg",
+"redirecTo": "/tabs/libro/cap21"
+}, {
+"titulo": "CHÁVEZ Y LA BURGUESIA",
+"UrlImg": "/assets/images/capitulos/burguesia.jpg",
+"redirecTo": "/tabs/libro/cap22"
+}, {
+"titulo": "CHÁVEZ Y LA BUROCRACIA",
+"UrlImg": "/assets/images/capitulos/burocracia.jpg",
+"redirecTo": "/tabs/libro/cap23"
+}, {
+"titulo": "CHÁVEZ Y EL CAMPO VENEZOLANO",
+"UrlImg": "/assets/images/capitulos/campovene.jpg",
+"redirecTo": "/tabs/libro/cap24"
+}, {
+"titulo": "CHÁVEZ Y LA CAN",
+"UrlImg": "/assets/images/capitulos/can.jpg",
+"redirecTo": "/tabs/libro/cap25"
+}, {
+"titulo": "CHÁVEZ CANTANTE",
+"UrlImg": "/assets/images/capitulos/cantante.jpg",
+"redirecTo": "/tabs/libro/cap26"
+}, {
+"titulo": "CHÁVEZ Y EL CAPITALISMO",
+"UrlImg": "/assets/images/capitulos/capitalismo.jpg",
+"redirecTo": "/tabs/libro/cap27"
+}, {
+"titulo": "CHÁVEZ EL CARACAZO",
+"UrlImg": "/assets/images/capitulos/caracazo.jpg",
+"redirecTo": "/tabs/libro/cap28"
+}, {
+"titulo": "CHÁVEZ Y LA CELAC",
+"UrlImg": "/assets/images/capitulos/celac.jpg",
+"redirecTo": "/tabs/libro/cap29"
+}, {
+"titulo": "CHÁVEZ Y EL CHE GUEVARA",
+"UrlImg": "/assets/images/capitulos/cheguevara.jpg",
+"redirecTo": "/tabs/libro/cap30"
+}, {
+"titulo": "CHÁVEZ Y CHILE",
+"UrlImg": "/assets/images/capitulos/chile.jpg",
+"redirecTo": "/tabs/libro/cap31"
+}, {
+"titulo": "CHÁVEZ Y CHINA",
+"UrlImg": "/assets/images/capitulos/china.jpg",
+"redirecTo": "/tabs/libro/cap32"
+}, {
+"titulo": "CHÁVEZ Y LA CLASE MEDIA",
+"UrlImg": "/assets/images/capitulos/clasemedia.jpg",
+"redirecTo": "/tabs/libro/cap33"
+}, {
+"titulo": "CHÁVEZ Y COLOMBIA",
+"UrlImg": "/assets/images/capitulos/colombia.jpg",
+"redirecTo": "/tabs/libro/cap34"
+}, {
+"titulo": "CHÁVEZ COLOQUIAL",
+"UrlImg": "/assets/images/capitulos/coloquial.jpg",
+"redirecTo": "/tabs/libro/cap35"
+}, {
+"titulo": "CHÁVEZ Y LAS COMUNAS",
+"UrlImg": "/assets/images/capitulos/comunas.jpg",
+"redirecTo": "/tabs/libro/cap36"
+}, {
+"titulo": "CHÁVEZ Y LA CONCIENCIA SOCIALISTA",
+"UrlImg": "/assets/images/capitulos/conciencia.jpg",
+"redirecTo": "/tabs/libro/cap37"
+}, {
+"titulo": "CHÁVEZ Y LOS CONSEJOS COMUNALES",
+"UrlImg": "/assets/images/capitulos/consejoscom.jpg",
+"redirecTo": "/tabs/libro/cap38"
+}, {
+"titulo": "CHÁVEZ CONSTITUCIONALISTA",
+"UrlImg": "/assets/images/capitulos/constitucionalista.jpg",
+"redirecTo": "/tabs/libro/cap39"
+}, {
+"titulo": "CHÁVEZ Y LA CONSTITUYENTE",
+"UrlImg": "/assets/images/capitulos/constituyente.jpg",
+"redirecTo": "/tabs/libro/cap40"
+}, {
+"titulo": "CHÁVEZ Y LA CONTRAREVOLUCIÓN",
+"UrlImg": "/assets/images/capitulos/contrarevolucion.jpg",
+"redirecTo": "/tabs/libro/cap41"
+}, {
+"titulo": "CHÁVEZ Y LA CORRUPCIÓN",
+"UrlImg": "/assets/images/capitulos/corrupcion.jpg",
+"redirecTo": "/tabs/libro/cap42"
+}, {
+"titulo": "CHÁVEZ Y COSTA RICA",
+"UrlImg": "/assets/images/capitulos/costarica.jpg",
+"redirecTo": "/tabs/libro/cap43"
+}, {
+"titulo": "CHÁVEZ CRÍTICO",
+"UrlImg": "/assets/images/capitulos/critico.jpg",
+"redirecTo": "/tabs/libro/cap44"
+}, {
+"titulo": "CHÁVEZ Y CUBA",
+"UrlImg": "/assets/images/capitulos/cuba.jpg",
+"redirecTo": "/tabs/libro/cap45"
+}, {
+"titulo": "CHÁVEZ Y CURAZAO",
+"UrlImg": "/assets/images/capitulos/curazao.jpg",
+"redirecTo": "/tabs/libro/cap46"
+}, {
+"titulo": "CHÁVEZ Y LA CULTURA",
+"UrlImg": "/assets/images/capitulos/cultura.jpg",
+"redirecTo": "/tabs/libro/cap47"
+}, {
+"titulo": "CHÁVEZ DEMOCRÁTICO",
+"UrlImg": "/assets/images/capitulos/democratico.jpg",
+"redirecTo": "/tabs/libro/cap48"
+}, {
+"titulo": "CHÁVEZ DENUNCIANTE",
+"UrlImg": "/assets/images/capitulos/denunciante.jpg",
+"redirecTo": "/tabs/libro/cap49"
+}, {
+"titulo": "CHÁVEZ Y EL DEPORTE",
+"UrlImg": "/assets/images/capitulos/deporte.jpg",
+"redirecTo": "/tabs/libro/cap50"
+}, {
+"titulo": "CHÁVEZ Y LOS DERECHOS HUMANOS",
+"UrlImg": "/assets/images/capitulos/ddhh.jpg",
+"redirecTo": "/tabs/libro/cap51"
+}, {
+"titulo": "CHÁVEZ DIRECTO",
+"UrlImg": "/assets/images/capitulos/directo.jpg",
+"redirecTo": "/tabs/libro/cap52"
+}, {
+"titulo": "CHÁVEZ Y LAS DROGAS",
+"UrlImg": "/assets/images/capitulos/lasdrogas.jpg",
+"redirecTo": "/tabs/libro/cap53"
+}, {
+"titulo": "CHÁVEZ Y LA ECONOMÍA",
+"UrlImg": "/assets/images/capitulos/economia.jpg",
+"redirecTo": "/tabs/libro/cap54"
+}, {
+"titulo": "CHÁVEZ ECOLOGISTA",
+"UrlImg": "/assets/images/capitulos/ecologista.jpg",
+"redirecTo": "/tabs/libro/cap55"
+}, {
+"titulo": "CHÁVEZ Y ECUADOR",
+"UrlImg": "/assets/images/capitulos/ecuador.jpg",
+"redirecTo": "/tabs/libro/cap56"
+}, {
+"titulo": "CHÁVEZ Y LA EDUCACIÓN",
+"UrlImg": "/assets/images/capitulos/educacion.jpg",
+"redirecTo": "/tabs/libro/cap57"
+}, {
+"titulo": "CHÁVEZ ELECTORAL",
+"UrlImg": "/assets/images/capitulos/electoral.jpg",
+"redirecTo": "/tabs/libro/cap58"
+}, {
+"titulo": "CHÁVEZ Y LA EMPRESA PRIVADA",
+"UrlImg": "/assets/images/capitulos/privada.jpg",
+"redirecTo": "/tabs/libro/cap59"
+}, {
+"titulo": "CHÁVEZ Y ESPAÑA",
+"UrlImg": "/assets/images/capitulos/espana.jpg",
+"redirecTo": "/tabs/libro/cap60"
+}, {
+"titulo": "CHÁVEZ ESPIRITUAL",
+"UrlImg": "/assets/images/capitulos/espiritual.jpg",
+"redirecTo": "/tabs/libro/cap61"
+}, {
+"titulo": "CHÁVEZ ESTADISTA",
+"UrlImg": "/assets/images/capitulos/estadista.jpg",
+"redirecTo": "/tabs/libro/cap62"
+}, {
+"titulo": "CHÁVEZ ESTRATEGA",
+"UrlImg": "/assets/images/capitulos/estratega.jpg",
+"redirecTo": "/tabs/libro/cap63a"
+}, {
+"titulo": "CHÁVEZ Y LOS ESTUDIANTES",
+"UrlImg": "/assets/images/capitulos/estudiantes.jpg",
+"redirecTo": "/tabs/libro/cap63"
+}, {
+"titulo": "CHÁVEZ ÉTICO",
+"UrlImg": "/assets/images/capitulos/etico.jpg",
+"redirecTo": "/tabs/libro/cap64"
+}, {
+"titulo": "CHÁVEZ Y LAS EXPROPIACIONES",
+"UrlImg": "/assets/images/capitulos/expropiaciones.jpg",
+"redirecTo": "/tabs/libro/cap65"
+}, {
+"titulo": "CHÁVEZ Y LA FAMILIA",
+"UrlImg": "/assets/images/capitulos/familia.jpg",
+"redirecTo": "/tabs/libro/cap66"
+}, {
+"titulo": "CHÁVEZ Y EL FASCISMO",
+"UrlImg": "/assets/images/capitulos/fascismo.jpg",
+"redirecTo": "/tabs/libro/cap67"
+}, {
+"titulo": "CHÁVEZ FEMINISTA",
+"UrlImg": "/assets/images/capitulos/feminista.jpg",
+"redirecTo": "/tabs/libro/cap68"
+}, {
+"titulo": "CHÁVEZ Y FIDEL",
+"UrlImg": "/assets/images/capitulos/fidel.jpg",
+"redirecTo": "/tabs/libro/cap69"
+}, {
+"titulo": "CHÁVEZ Y EL FMI",
+"UrlImg": "/assets/images/capitulos/fmi.jpg",
+"redirecTo": "/tabs/libro/cap70"
+}, {
+"titulo": "CHÁVEZ Y FRANCIA",
+"UrlImg": "/assets/images/capitulos/francia.jpg",
+"redirecTo": "/tabs/libro/cap71"
+}, {
+"titulo": "CHÁVEZ Y EL G-15",
+"UrlImg": "/assets/images/capitulos/g-15.jpg",
+"redirecTo": "/tabs/libro/cap72"
+}, {
+"titulo": "CHÁVEZ GEOPOLÍTICO",
+"UrlImg": "/assets/images/capitulos/geopolitico.jpg",
+"redirecTo": "/tabs/libro/cap73"
+}, {
+"titulo": "CHÁVEZ Y EL GOLPE",
+"UrlImg": "/assets/images/capitulos/golpe.jpg",
+"redirecTo": "/tabs/libro/cap74"
+}, {
+"titulo": "CHÁVEZ Y EL GRAN POLO PATRIOTICO",
+"UrlImg": "/assets/images/capitulos/polopatriotico.jpg",
+"redirecTo": "/tabs/libro/cap75"
+}, {
+"titulo": "CHÁVEZ Y GUATEMALA",
+"UrlImg": "/assets/images/capitulos/guatemala.jpg",
+"redirecTo": "/tabs/libro/cap76"
+}, {
+"titulo": "CHÁVEZ Y LA GUERRILLA",
+"UrlImg": "/assets/images/capitulos/guerrilla.jpg",
+"redirecTo": "/tabs/libro/cap77"
+}, {
+"titulo": "CHÁVEZ Y GUYANA",
+"UrlImg": "/assets/images/capitulos/guyana.jpg",
+"redirecTo": "/tabs/libro/cap78"
+}, {
+"titulo": "CHÁVEZ Y LA HABILITANTE",
+"UrlImg": "/assets/images/capitulos/habilitante.jpg",
+"redirecTo": "/tabs/libro/cap79"
+}, {
+"titulo": "CHÁVEZ Y HAITÍ",
+"UrlImg": "/assets/images/capitulos/haiti.jpg",
+"redirecTo": "/tabs/libro/cap80"
+}, {
+"titulo": "CHÁVEZ HISTÓRICO",
+"UrlImg": "/assets/images/capitulos/historico.jpg",
+"redirecTo": "/tabs/libro/cap81"
+}, {
+"titulo": "CHÁVEZ Y HONDURAS",
+"UrlImg": "/assets/images/capitulos/honduras.jpg",
+"redirecTo": "/tabs/libro/cap82"
+}, {
+"titulo": "CHÁVEZ HUMANO",
+"UrlImg": "/assets/images/capitulos/humano.jpg",
+"redirecTo": "/tabs/libro/cap83"
+}, {
+"titulo": "CHÁVEZ HUMILDE",
+"UrlImg": "/assets/images/capitulos/humilde.jpg",
+"redirecTo": "/tabs/libro/cap84"
+}, {
+"titulo": "CHÁVEZ HUMORISTA",
+"UrlImg": "/assets/images/capitulos/humorista.jpg",
+"redirecTo": "/tabs/libro/cap85"
+}, {
+"titulo": "CHÁVEZ EL IDEALISTA",
+"UrlImg": "/assets/images/capitulos/idealista.jpg",
+"redirecTo": "/tabs/libro/cap86"
+}, {
+"titulo": "CHÁVEZ IDEOLÓGICO",
+"UrlImg": "/assets/images/capitulos/ideologico.jpg",
+"redirecTo": "/tabs/libro/cap87"
+}, {
+"titulo": "CHÁVEZ Y LA IGLESIA",
+"UrlImg": "/assets/images/capitulos/iglesia.jpg",
+"redirecTo": "/tabs/libro/cap88"
+}, {
+"titulo": "CHÁVEZ Y LA INDEPENDENCIA",
+"UrlImg": "/assets/images/capitulos/independencia.jpg",
+"redirecTo": "/tabs/libro/cap89"
+}, {
+"titulo": "CHÁVEZ Y LA INDIA",
+"UrlImg": "/assets/images/capitulos/india.jpg",
+"redirecTo": "/tabs/libro/cap90"
+}, {
+"titulo": "CHÁVEZ INDIGENISTA",
+"UrlImg": "/assets/images/capitulos/indigenista.jpg",
+"redirecTo": "/tabs/libro/cap91"
+}, {
+"titulo": "CHÁVEZ INSTITUCIONALISTA",
+"UrlImg": "/assets/images/capitulos/institucionalista.jpg",
+"redirecTo": "/tabs/libro/cap92"
+}, {
+"titulo": "CHÁVEZ INTEGRACIONISTA",
+"UrlImg": "/assets/images/capitulos/integracionista.jpg",
+"redirecTo": "/tabs/libro/cap93"
+}, {
+"titulo": "CHÁVEZ INTERNACIONALISTA",
+"UrlImg": "/assets/images/capitulos/internacionalista.jpg",
+"redirecTo": "/tabs/libro/cap94"
+}, {
+"titulo": "CHÁVEZ E IRAK",
+"UrlImg": "/assets/images/capitulos/irak.jpg",
+"redirecTo": "/tabs/libro/cap95"
+}, {
+"titulo": "CHÁVEZ E IRÁN",
+"UrlImg": "/assets/images/capitulos/iran.jpg",
+"redirecTo": "/tabs/libro/cap96"
+}, {
+"titulo": "CHÁVEZ IRÓNICO",
+"UrlImg": "/assets/images/capitulos/ironico.jpg",
+"redirecTo": "/tabs/libro/cap97"
+}, {
+"titulo": "CHÁVEZ E ISRAEL",
+"UrlImg": "/assets/images/capitulos/israel.jpg",
+"redirecTo": "/tabs/libro/cap98"
+}, {
+"titulo": "CHÁVEZ Y JAPÓN",
+"UrlImg": "/assets/images/capitulos/japon.jpg",
+"redirecTo": "/tabs/libro/cap99"
+}, {
+"titulo": "CHÁVEZ JUDICIAL",
+"UrlImg": "/assets/images/capitulos/judicial.jpg",
+"redirecTo": "/tabs/libro/cap100"
+}, {
+"titulo": "CHÁVEZ JURÍDICO",
+"UrlImg": "/assets/images/capitulos/juridico.jpg",
+"redirecTo": "/tabs/libro/cap101"
+}, {
+"titulo": "CHÁVEZ Y LA JUVENTUD",
+"UrlImg": "/assets/images/capitulos/juventud.jpg",
+"redirecTo": "/tabs/libro/cap102"
+}, {
+"titulo": "CHÁVEZ Y LAS FARC",
+"UrlImg": "/assets/images/capitulos/lasfarc.jpg",
+"redirecTo": "/tabs/libro/cap103"
+}, {
+"titulo": "CHÁVEZ LATINO CARIBEÑO",
+"UrlImg": "/assets/images/capitulos/caribeno.jpg",
+"redirecTo": "/tabs/libro/cap104"
+}, {
+"titulo": "CHÁVEZ Y EL LATIFUNDIO",
+"UrlImg": "/assets/images/capitulos/latifundio.jpg",
+"redirecTo": "/tabs/libro/cap105"
+}, {
+"titulo": "CHÁVEZ Y LA LECTURA",
+"UrlImg": "/assets/images/capitulos/lectura.jpg",
+"redirecTo": "/tabs/libro/cap106"
+}, {
+"titulo": "CHÁVEZ LÍDER",
+"UrlImg": "/assets/images/capitulos/lider.jpg",
+"redirecTo": "/tabs/libro/cap107"
+}, {
+"titulo": "CHÁVEZ LLANERO",
+"UrlImg": "/assets/images/capitulos/llanero.jpg",
+"redirecTo": "/tabs/libro/cap108"
+}, {
+"titulo": "CHÁVEZ MEDIÁTICO",
+"UrlImg": "/assets/images/capitulos/mediatico.jpg",
+"redirecTo": "/tabs/libro/cap109"
+}, {
+"titulo": "CHÁVEZ Y EL MERCOSUR",
+"UrlImg": "/assets/images/capitulos/mercosur.jpg",
+"redirecTo": "/tabs/libro/cap110"
+}, {
+"titulo": "CHÁVEZ Y MÉXICO",
+"UrlImg": "/assets/images/capitulos/mexico.jpg",
+"redirecTo": "/tabs/libro/cap111"
+}, {
+"titulo": "CHÁVEZ MILITAR",
+"UrlImg": "/assets/images/capitulos/militar.jpg",
+"redirecTo": "/tabs/libro/cap112"
+}, {
+"titulo": "CHÁVEZ Y LAS MISIONES",
+"UrlImg": "/assets/images/capitulos/misiones.jpg",
+"redirecTo": "/tabs/libro/cap113"
+}, {
+"titulo": "CHÁVEZ MORAL",
+"UrlImg": "/assets/images/capitulos/moral.jpg",
+"redirecTo": "/tabs/libro/cap114"
+}, {
+"titulo": "CHÁVEZ Y EL MOVIMIENTO POLPULAR",
+"UrlImg": "/assets/images/capitulos/movimientopopular.jpg",
+"redirecTo": "/tabs/libro/cap115"
+}, {
+"titulo": "CHÁVEZ Y EL MUNDO ÁRABE",
+"UrlImg": "/assets/images/capitulos/arabe.jpg",
+"redirecTo": "/tabs/libro/cap116"
+}, {
+"titulo": "CHÁVEZ NACIONALISTA",
+"UrlImg": "/assets/images/capitulos/nacionalista.jpg",
+"redirecTo": "/tabs/libro/cap117"
+}, {
+"titulo": "CHÁVEZ Y LAS NACIONALIZACIONES",
+"UrlImg": "/assets/images/capitulos/nacionalizaciones.jpg",
+"redirecTo": "/tabs/libro/cap118"
+}, {
+"titulo": "CHÁVEZ Y EL NEOLIBERALISMO",
+"UrlImg": "/assets/images/capitulos/neoliberalismo.jpg",
+"redirecTo": "/tabs/libro/cap119"
+}, {
+"titulo": "CHÁVEZ Y NICARAGUA",
+"UrlImg": "/assets/images/capitulos/nicaragua.jpg",
+"redirecTo": "/tabs/libro/cap120"
+}, {
+"titulo": "CHÁVEZ Y LOS NIÑOS",
+"UrlImg": "/assets/images/capitulos/ninos.jpg",
+"redirecTo": "/tabs/libro/cap121"
+}, {
+"titulo": "CHÁVEZ Y LAS OBRAS",
+"UrlImg": "/assets/images/capitulos/obras.jpg",
+"redirecTo": "/tabs/libro/cap122"
+}, {
+"titulo": "CHÁVEZ Y LOS OBREROS",
+"UrlImg": "/assets/images/capitulos/obreros.jpg",
+"redirecTo": "/tabs/libro/cap123"
+}, {
+"titulo": "CHÁVEZ Y LA OEA",
+"UrlImg": "/assets/images/capitulos/oea.jpg",
+"redirecTo": "/tabs/libro/cap124"
+}, {
+"titulo": "CHÁVEZ Y LA OLIGARQUÍA",
+"UrlImg": "/assets/images/capitulos/oligarquia.jpg",
+"redirecTo": "/tabs/libro/cap125"
+}, {
+"titulo": "CHÁVEZ Y LA ONU",
+"UrlImg": "/assets/images/capitulos/onu.jpg",
+"redirecTo": "/tabs/libro/cap126"
+}, {
+"titulo": "CHÁVEZ Y LA OPEP",
+"UrlImg": "/assets/images/capitulos/opep.jpg",
+"redirecTo": "/tabs/libro/cap127"
+}, {
+"titulo": "CHÁVEZ Y LA OPOSICIÓN",
+"UrlImg": "/assets/images/capitulos/oposicion.jpg",
+"redirecTo": "/tabs/libro/cap128"
+}, {
+"titulo": "CHÁVEZ PACIFICADOR",
+"UrlImg": "/assets/images/capitulos/pacificador.jpg",
+"redirecTo": "/tabs/libro/cap129"
+}, {
+"titulo": "CHÁVEZ PADRE",
+"UrlImg": "/assets/images/capitulos/padre.jpg",
+"redirecTo": "/tabs/libro/cap130"
+}, {
+"titulo": "CHÁVEZ Y PALESTINA",
+"UrlImg": "/assets/images/capitulos/palestina.jpg",
+"redirecTo": "/tabs/libro/cap131"
+}, {
+"titulo": "CHÁVEZ Y PANAMÁ",
+"UrlImg": "/assets/images/capitulos/panama.jpg",
+"redirecTo": "/tabs/libro/cap132"
+}, {
+"titulo": "CHÁVEZ Y PARAGUAY",
+"UrlImg": "/assets/images/capitulos/paraguay.jpg",
+"redirecTo": "/tabs/libro/cap133"
+}, {
+"titulo": "CHÁVEZ Y EL PARO PETROLERO",
+"UrlImg": "/assets/images/capitulos/paropetrolero.jpg",
+"redirecTo": "/tabs/libro/cap134"
+}, {
+"titulo": "CHÁVEZ PARTIDISTA",
+"UrlImg": "/assets/images/capitulos/partidista.jpg",
+"redirecTo": "/tabs/libro/cap135"
+}, {
+"titulo": "CHÁVEZ PATRIOTA",
+"UrlImg": "/assets/images/capitulos/patriota.jpg",
+"redirecTo": "/tabs/libro/cap136"
+}, {
+"titulo": "CHÁVEZ PEDAGOGO",
+"UrlImg": "/assets/images/capitulos/pedagogo.jpg",
+"redirecTo": "/tabs/libro/cap137"
+}, {
+"titulo": "CHÁVEZ Y PDVSA",
+"UrlImg": "/assets/images/capitulos/pdvsa.jpg",
+"redirecTo": "/tabs/libro/cap138"
+}, {
+"titulo": "CHÁVEZ Y LOS PENSIONADOS",
+"UrlImg": "/assets/images/capitulos/pensionados.jpg",
+"redirecTo": "/tabs/libro/cap139"
+}, {
+"titulo": "CHÁVEZ Y PERÚ",
+"UrlImg": "/assets/images/capitulos/peru.jpg",
+"redirecTo": "/tabs/libro/cap140"
+}, {
+"titulo": "CHÁVEZ Y EL PETRÓLEO",
+"UrlImg": "/assets/images/capitulos/petroleo.jpg",
+"redirecTo": "/tabs/libro/cap141"
+}, {
+"titulo": "CHÁVEZ Y LOS POBRES",
+"UrlImg": "/assets/images/capitulos/pobres.jpg",
+"redirecTo": "/tabs/libro/cap142"
+}, {
+"titulo": "CHÁVEZ POETA",
+"UrlImg": "/assets/images/capitulos/poeta.jpg",
+"redirecTo": "/tabs/libro/cap143"
+}, {
+"titulo": "CHÁVEZ POLÍTICO",
+"UrlImg": "/assets/images/capitulos/politico.jpg",
+"redirecTo": "/tabs/libro/cap144"
+}, {
+"titulo": "CHÁVEZ Y PORTUGAL",
+"UrlImg": "/assets/images/capitulos/portugal.jpg",
+"redirecTo": "/tabs/libro/cap145"
+}, {
+"titulo": "CHÁVEZ Y LA PRODUCCIÓN NACIONAL",
+"UrlImg": "/assets/images/capitulos/prodnacional.jpg",
+"redirecTo": "/tabs/libro/cap146"
+}, {
+"titulo": "CHÁVEZ Y LA PROPIEDAD PRIVADA",
+"UrlImg": "/assets/images/capitulos/prodprivada.jpg",
+"redirecTo": "/tabs/libro/cap147"
+}, {
+"titulo": "CHÁVEZ Y LA PROPIEDAD SOCIAL",
+"UrlImg": "/assets/images/capitulos/propsocial.jpg",
+"redirecTo": "/tabs/libro/cap148"
+}, {
+"titulo": "CHÁVEZ Y LOS PROCERES",
+"UrlImg": "/assets/images/capitulos/proceres.jpg",
+"redirecTo": "/tabs/libro/cap149"
+}, {
+"titulo": "CHÁVEZ DEL PUEBLO",
+"UrlImg": "/assets/images/capitulos/pueblo.jpg",
+"redirecTo": "/tabs/libro/cap150"
+}, {
+"titulo": "CHÁVEZ Y PUERTO RICO",
+"UrlImg": "/assets/images/capitulos/puertorico.jpg",
+"redirecTo": "/tabs/libro/cap151"
+}, {
+"titulo": "CHÁVEZ Y EL REFERENDUM NACIONAL",
+"UrlImg": "/assets/images/capitulos/RN.jpg",
+"redirecTo": "/tabs/libro/cap152"
+}, {
+"titulo": "CHÁVEZ Y EL REFERÉNDUM REVOCATORIO",
+"UrlImg": "/assets/images/capitulos/RR.jpg",
+"redirecTo": "/tabs/libro/cap153"
+}, {
+"titulo": "CHÁVEZ REFLEXIVO",
+"UrlImg": "/assets/images/capitulos/reflexivo.jpg",
+"redirecTo": "/tabs/libro/cap154"
+}, {
+"titulo": "CHÁVEZ Y LAS REFORMAS CONSTITUCIONALES",
+"UrlImg": "/assets/images/capitulos/RC.jpg",
+"redirecTo": "/tabs/libro/cap155"
+}, {
+"titulo": "CHÁVEZ REGIONALISTA",
+"UrlImg": "/assets/images/capitulos/regionalista.jpg",
+"redirecTo": "/tabs/libro/cap156"
+}, {
+"titulo": "CHÁVEZ Y REPÚBLICA DOMINICANA",
+"UrlImg": "/assets/images/capitulos/RD.jpg",
+"redirecTo": "/tabs/libro/cap157"
+}, {
+"titulo": "CHÁVEZ Y SU RETIRO",
+"UrlImg": "/assets/images/capitulos/retiro.jpg",
+"redirecTo": "/tabs/libro/cap158"
+}, {
+"titulo": "CHÁVEZ Y LA REVOLUCIÓN",
+"UrlImg": "/assets/images/capitulos/revolucion.jpg",
+"redirecTo": "/tabs/libro/cap159"
+}, {
+"titulo": "CHÁVEZ Y LA REVOLUCIÓN BOLIVARIANA",
+"UrlImg": "/assets/images/capitulos/RB.jpg",
+"redirecTo": "/tabs/libro/cap160"
+}, {
+"titulo": "CHÁVEZ Y LA REVOLUCIÓN SOCIALISTA",
+"UrlImg": "/assets/images/capitulos/RS.jpg",
+"redirecTo": "/tabs/libro/cap161"
+}, {
+"titulo": "CHÁVEZ Y RUSIA",
+"UrlImg": "/assets/images/capitulos/rusia.jpg",
+"redirecTo": "/tabs/libro/cap162"
+}, {
+"titulo": "CHÁVEZ Y LA SALUD",
+"UrlImg": "/assets/images/capitulos/salud.jpg",
+"redirecTo": "/tabs/libro/cap163"
+}, {
+"titulo": "CHÁVEZ SARCÁSTICO",
+"UrlImg": "/assets/images/capitulos/sarcastico.jpg",
+"redirecTo": "/tabs/libro/cap164"
+}, {
+"titulo": "CHÁVEZ Y LA SEGURIDAD",
+"UrlImg": "/assets/images/capitulos/seguridad.jpg",
+"redirecTo": "/tabs/libro/cap165"
+}, {
+"titulo": "CHÁVEZ SENTIMENTAL",
+"UrlImg": "/assets/images/capitulos/sentimental.jpg",
+"redirecTo": "/tabs/libro/cap166"
+}, {
+"titulo": "CHÁVEZ EN LO SOCIAL",
+"UrlImg": "/assets/images/capitulos/social.jpg",
+"redirecTo": "/tabs/libro/cap167"
+}, {
+"titulo": "CHÁVEZ Y EL SOCIALISMO",
+"UrlImg": "/assets/images/capitulos/socialismo.jpg",
+"redirecTo": "/tabs/libro/cap168"
+}, {
+"titulo": "CHÁVEZ Y EL SOCIALISMO BOLIVARIANO",
+"UrlImg": "/assets/images/capitulos/SB.jpg",
+"redirecTo": "/tabs/libro/cap169"
+}, {
+"titulo": "CHÁVEZ SOLIDARIO",
+"UrlImg": "/assets/images/capitulos/solidario.jpg",
+"redirecTo": "/tabs/libro/cap170"
+}, {
+"titulo": "CHÁVEZ Y SU SALUD",
+"UrlImg": "/assets/images/capitulos/susalud.jpg",
+"redirecTo": "/tabs/libro/cap171"
+}, {
+"titulo": "CHÁVEZ Y LA TECNOLOGÍA",
+"UrlImg": "/assets/images/capitulos/tecnologia.jpg",
+"redirecTo": "/tabs/libro/cap172"
+}, {
+"titulo": "CHÁVEZ Y LAS TELECOMUNICACIONES ",
+"UrlImg": "/assets/images/capitulos/telecomunicaciones.jpg",
+"redirecTo": "/tabs/libro/cap173"
+}, {
+"titulo": "CHÁVEZ Y EL TERRORISMO",
+"UrlImg": "/assets/images/capitulos/terrorismo.jpg",
+"redirecTo": "/tabs/libro/cap174"
+}, {
+"titulo": "CHÁVEZ Y LOS TRABAJADORES",
+"UrlImg": "/assets/images/capitulos/trabajadores.jpg",
+"redirecTo": "/tabs/libro/cap175"
+}, {
+"titulo": "CHÁVEZ Y LA TRAGEDIA DE VARGAS",
+"UrlImg": "/assets/images/capitulos/vargas.jpg",
+"redirecTo": "/tabs/libro/cap176"
+}, {
+"titulo": "CHÁVEZ Y EL TURISMO",
+"UrlImg": "/assets/images/capitulos/turismo.jpg",
+"redirecTo": "/tabs/libro/cap177"
+}, {
+"titulo": "CHÁVEZ Y LA UNASUR",
+"UrlImg": "/assets/images/capitulos/unasur.jpg",
+"redirecTo": "/tabs/libro/cap178"
+}, {
+"titulo": "CHÁVEZ UNIFICADOR",
+"UrlImg": "/assets/images/capitulos/unificador.jpg",
+"redirecTo": "/tabs/libro/cap179"
+}, {
+"titulo": "CHÁVEZ Y LA UNIÓN CÍVICO MILITAR",
+"UrlImg": "/assets/images/capitulos/militar.jpg",
+"redirecTo": "/tabs/libro/cap180"
+}, {
+"titulo": "CHÁVEZ Y URUGUAY",
+"UrlImg": "/assets/images/capitulos/uruguay.jpg",
+"redirecTo": "/tabs/libro/cap181"
+}, {
+"titulo": "CHÁVEZ Y U.S.A.",
+"UrlImg": "/assets/images/capitulos/usa.jpg",
+"redirecTo": "/tabs/libro/cap182"
+}, {
+"titulo": "CHÁVEZ Y VALORES SOCIALISTAS",
+"UrlImg": "/assets/images/capitulos/valoressoc.jpg",
+"redirecTo": "/tabs/libro/cap183"
+}, {
+"titulo": "CHÁVEZ VISIONARIO",
+"UrlImg": "/assets/images/capitulos/visionario.jpg",
+"redirecTo": "/tabs/libro/cap184"
+}, {
+"titulo": "CHÁVEZ Y LA VIVIENDA",
+"UrlImg": "/assets/images/capitulos/vivienda.jpg",
+"redirecTo": "/tabs/libro/cap185"
+}]

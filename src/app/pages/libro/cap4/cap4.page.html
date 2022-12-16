@@ -1,0 +1,737 @@
+<app-headerc backRoute="/tabs/libro"></app-headerc>
+<app-fontcontrol></app-fontcontrol>
+<ion-content [scrollEvents]="true">
+
+<!-- <ion-fab slot="fixed">
+  <ion-fab-button (click)="scrollToTop()" >
+      <ion-icon name="add"></ion-icon>
+  </ion-fab-button>
+</ion-fab> -->
+
+  <ion-card>
+    <ion-img class="capitulo_img" src="/assets/images/capitulos/agitador.jpg"></ion-img>
+    <ion-card-content>
+      <p class="cita1">
+        “Si algún funcionario quiere aplicarles la matraca, el funcionario que
+        haga lo que va a hacer, y busquen testigos, busquen testigos, niéguense
+        a pagar la matraca; bueno y párense ahí pues en la mitad de la carretera
+        pues, tranquen la carretera.”
+      </p>
+      <p class="piecita1">
+        Aló Presidente Programa Nro. 47 Desde El Palacio de Miraflores. 15 de
+        octubre De 2000
+      </p>
+      <p class="cita1">
+        “Este mes de febrero nos trajo grandes victorias y aquí estamos de nuevo
+        en la batalla comunicacional, la batalla de las ideas, el Gobierno
+        Bolivariano desplegado por este gran territorio.” (Refiriéndose a las
+        elecciones del 15 de febrero para la Reforma Constitucional)
+      </p>
+      <p class="piecita1">
+        Aló Presidente Nº 325 Los valles de Tucutunemo, municipio Zamora, estado
+        Aragua. 1º de marzo de 2009
+      </p>
+      <p class="cita1">
+        “La unión, la lucha, la batalla, la unión, la unión, la unión para
+        consolidar el Gobierno Revolucionario.”
+      </p>
+      <p class="piecita1">
+        Aló Presidente N° 341. Centro Diagnóstico Integral Caucagua Municipio
+        Acevedo, Estado Miranda Domingo, 4 de octubre de 2009
+      </p>
+      <p class="cita1">
+        “El huracán bolivariano anda como una avalancha, es una avalancha.”
+      </p>
+      <p class="piecita1">
+        Caravana y concentración en apoyo al candidato Chávez Guarenas, estado
+        Miranda Sábado, 29 de septiembre de 2012 “
+      </p>
+      <p class="cita1">
+        “Vengan con Chávez, los que quieran patria vengan con Chávez.”
+      </p>
+      <p class="piecita1">
+        Caravana y concentración en apoyo al candidato Chávez Guarenas, estado
+        Miranda Sábado, 29 de septiembre de 2012
+      </p>
+      <p class="cita1">
+        “Ni que llueva, ni que truene, ni que relampaguee, aquí estamos en la
+        calle, ¡porque las calles son del pueblo!”
+      </p>
+      <p class="piecita1">
+        Caravana y concentración San Félix, estado Bolívar Sábado, 18 de agosto
+        de 2012
+      </p>
+      <p class="cita1">
+        “Ocurrió como un milagro, despertó un gigante que se llama ¡el pueblo
+        bravío de Venezuela!, ¡despertó y se puso de pie!”
+      </p>
+      <p class="piecita1">
+        Caravana y concentración San Félix, estado Bolívar Sábado, 18 de agosto
+        de 2012
+      </p>
+      <p class="cita1">
+        “Ya Chávez no soy yo, somos todos, tú también eres Chávez.”
+      </p>
+      <p class="piecita1">
+        Caravana y concentración San Félix, estado Bolívar Sábado, 18 de agosto
+        de 2012
+      </p>
+      <p class="cita1">“Las calles son del pueblo, no de la burguesía.”</p>
+      <p class="piecita1">
+        Caravana y concentración en Av. Juncal Maturín, Edo. Monagas. Viernes,
+        28 de septiembre de 2012
+      </p>
+      <p class="cita1">
+        “Cuando digo gana Chávez es que gana el pueblo, no soy yo. Chávez yo no
+        soy, ya no soy yo mismo, Chávez son ustedes, Chávez son ustedes jóvenes,
+        Chávez son ustedes muchachas, Chávez son ustedes niños y niñas; Chávez
+        son ustedes venezolanas y venezolanos; Chávez es un pueblo; Chávez es
+        una Patria.”
+      </p>
+      <p class="piecita1">
+        Caravana y concentración en Av. Juncal Maturín, Edo. Monagas. Viernes,
+        28 de septiembre de 2012
+      </p>
+      <p class="cita1">
+        “Ellos ahora tratan de vestirse de progresistas ¿progresistas?
+        ¡Fascistas es lo que son! El candidato burgués dice que yo lo ofendo. Yo
+        no estoy ofendiéndolo, con la verdad ni ofendo ni temo.”
+      </p>
+      <p class="piecita1">
+        Inspección al Desarrollo Habitacional Terrazas del Aluminio Municipio
+        Caroní, Estado Bolívar Lunes, 20 de agosto de 2012
+      </p>
+      <p class="cita1">
+        “El futuro que ya llegó, como se dice, que ya estamos construyendo,
+        cuando digo futuro no estoy pensando en pasado mañana ni siquiera en
+        mañana, no es hoy, el futuro está aquí hoy. Somos nosotros “
+      </p>
+      <p class="piecita1">
+        Reunión con la maquinaria electoral del PSUV Caracas, viernes 7 de
+        septiembre de 2012
+      </p>
+      <p class="cita1">
+        “Nosotros venimos de allá de Santa Marta, y antes, venimos de allá del
+        grito de Guaicaipuro; venimos de allá de las Sierras de Falcón...”
+      </p>
+      <p class="piecita1">
+        Reunión con la maquinaria electoral del PSUV Caracas, viernes 7 de
+        septiembre de 2012
+      </p>
+      <p class="cita1">
+        “Venimos de allá de “El Porteñazo”, de “El Carupanazo”, venimos de “El
+        Caracazo”, venimos del 4 de Febrero, venimos del 27 de Noviembre, de ahí
+        venimos nosotros.”
+      </p>
+      <p class="piecita1">
+        Reunión con la maquinaria electoral del PSUV Caracas, viernes 7 de
+        septiembre de 2012
+      </p>
+      <p class="cita1">
+        “No tenemos por qué ocultar nuestros orígenes, nosotros somos del
+        pueblo, somos parte del pueblo, somos campesinos, somos obreros,
+        obreras, pescadores, pescadoras, juventud estudiosa. Nosotros somos y
+        decimos lo que somos, y además estamos orgullosos de lo que hemos sido,
+        y de lo que somos, orgullosos.”
+      </p>
+      <p class="piecita1">
+        Reunión con la maquinaria electoral del PSUV Caracas, viernes 7 de
+        septiembre de 2012
+      </p>
+      <p class="cita1">
+        “Inundemos a Venezuela de más amor, inundemos a la Patria toda de más
+        alegría, todos estos días por venir y el 7 de octubre escribamos con
+        alegría, con júbilo una de las páginas más gloriosas de la historia
+        política venezolana ¡Escribámosla!”
+      </p>
+      <p class="piecita1">
+        Reunión con la maquinaria electoral del PSUV Caracas, viernes 7 de
+        septiembre de 2012
+      </p>
+      <p class="cita1">
+        “Cuando ganaron las gobernaciones, ganaron los diputados que ganaron,
+        ahí sí el CNE es válido. Pero cuando ellos pierden no. ¡Vaya qué
+        democracia ¿no?! ¡Qué concepto de la democracia! Pero son ellos, esa es
+        la burguesía y sus voceros, y su odio y su farsa. No pasarán.”
+      </p>
+      <p class="piecita1">
+        Consejo de Vicepresidentes Desde el Salón Néstor Kirchner. Palacio de
+        Miraflores Caracas, sábado 24 de marzo de 2012
+      </p>
+      <p class="cita1">
+        “Llamo al pueblo venezolano a la unidad, a la batalla, a la vida, a la
+        lucha por la vida, la lucha y a la victoria, hoy más que ayer y ahora
+        más que nunca yo con Dios por delante y hasta el último día de mi vida
+        viviré para ustedes, para el pueblo venezolano.”
+      </p>
+      <p class="piecita1">
+        Visita a la fábrica de tractores Veneminsk Complejo Industrial Santa
+        Inés. Barinas 21 de febrero de 2012
+      </p>
+      <p class="cita1">
+        “Alerta, alerta, alerta, el pueblo unido, el Partido Socialista unido,
+        los partidos que apoyan a la revolución, el Gran Polo Patriótico, la
+        Fuerza Armada unida.”
+      </p>
+      <p class="piecita1">
+        Conversatorio sobre el Golpe de Estado de Abril de 2002 Palacio de
+        Miraflores Miércoles, 11 de abril de 2012
+      </p>
+      <p class="cita1">
+        “No se les ocurra de nuevo, es un consejo que yo les doy, no se
+        equivoquen de nuevo, de todos modos por si ellos se equivocaran,
+        nosotros no nos vamos a equivocar, alerta, alerta.”
+      </p>
+      <p class="piecita1">
+        Conversatorio sobre el Golpe de Estado de Abril de 2002 Palacio de
+        Miraflores Miércoles, 11 de abril de 2012
+      </p>
+      <p class="cita1">
+        “Hoy, ahora llegó el gran día de la Patria, ni imperios, ni escuálidos,
+        ni majunches, ni burguesías ni nada podrán detenernos de este camino,
+        construyendo la Patria estamos para dejársela independiente, grande y
+        libre a nuestros hijos y a nuestras hijas.”
+      </p>
+      <p class="piecita1">
+        Conversatorio sobre el Golpe de Estado de Abril de 2002 Palacio de
+        Miraflores Miércoles, 11 de abril de 2012
+      </p>
+      <p class="cita1">
+        “Aquí estamos los patriotas, los que amamos de verdad esta tierra, y los
+        que hemos dedicado la vida entera a la redención de nuestro pueblo; y
+        allá está la burguesía, su candidatura, su discurso y sus engaños.”
+      </p>
+      <p class="piecita1">
+        Discurso del Comandante Chávez en el 193º Aniversario Del II Congreso de
+        Angostura 15 de febrero 2012
+      </p>
+      <p class="cita1">
+        “Vamos a paso de vencedores y no desmayaremos en este esfuerzo, como no
+        desmayaremos en ir más allá de las simples formas y conceptos.”
+      </p>
+      <p class="piecita1">
+        Las Líneas de Chávez ¡La Ecuación del Intercambio Perfecto! Domingo, 21
+        Marzo 2010
+      </p>
+      <p class="cita1">
+        “¡Seguimos venciendo!¡Seguiremos venciendo!¡Patria socialista o muerte!”
+      </p>
+      <p class="piecita1">
+        Las Líneas de Chávez ¡La Ecuación del Intercambio Perfecto! Domingo, 21
+        Marzo 2010
+      </p>
+      <p class="cita1">
+        “Bueno yo con el favor de Dios padre, siempre hay que decirlo, con el
+        apoyo de todos ustedes, de millones y millones les voy a demostrar que
+        los que no están capacitados ni moralmente, ni éticamente, ni
+        políticamente para gobernar este país, nuestro país son ellos, se lo
+        vamos a demostrar.”
+      </p>
+      <p class="piecita1">
+        Designación y Juramentación del comando de campaña “Los que quieran
+        patria vengan con Chávez” Sala Ríos Reyna - Teatro Teresa Carreño
+        Caracas, jueves 23 de febrero de 2012
+      </p>
+
+      <p class="cita1">
+        “Nosotros somos hechura de los tiempos y de la geografía, no somos
+        causa.”
+      </p>
+      <p class="piecita1">
+        Entrevista exclusiva al Presidente Hugo Chávez, concedida a la
+        periodista Helena Rostova del programa Russia Today, transmitido por TV
+        Moscú . 15 de octubre de 2010.
+      </p>
+      <p class="cita1">
+        “Se los digo y se los canto clarito, el canto no es mío, es el canto del
+        pueblo: ¡Más nunca volverán a gobernar este país de hombres y mujeres
+        libres! Pero más nunca.”
+      </p>
+      <p class="piecita1">
+        Tocoma, estado Bolívar Caracas, miércoles 18 de enero de 2012
+      </p>
+      <p class="cita1">
+        “Yo tengo la impresión que una agresión contra Venezuela, recibiría
+        respuestas no sólo desde Venezuela, varios países se irían a las armas,
+        lo tengo absolutamente claro; no sólo sería Venezuela.”
+      </p>
+      <p class="piecita1">
+        “Aló, Presidente”, programa Nº 337 Planta termoeléctrica “Josefa
+        Camejo”, Península de Paraguaná, Estado Falcón, 16 de agosto de 2009
+      </p>
+      <p class="cita1">
+        “¡Los que quieran ser una colonia yanqui, váyanse con la burguesía! ¡Los
+        que quieren patria, vengan con Chávez!”
+      </p>
+      <p class="piecita1">
+        Conmemoración del 23 de enero y homenaje a Fabricio Ojeda Desde la Av.
+        Urdaneta, Palacio De Miraflores Caracas, 23 de enero de 2011
+      </p>
+      <p class="cita1">
+        “Nosotros no podemos fracasar, no podemos fallar, estamos obligados a
+        vencer, por eso decimos: Venceremos.”
+      </p>
+      <p class="piecita1">
+        Aló presidente Programa Nro. 181 Desde la Universidad Bolivariana del
+        Estado Zulia. Domingo, 8 de febrero de 2004
+      </p>
+      <p class="cita1">
+        “Yo decía que fue como un rayo, sólo que no fue un rayo que pasó y se
+        perdió, más bien fue como el relámpago del Catatumbo, hablando del
+        Zulia, porque el 4 de Febrero sigue relampagueando como el Catatumbo,
+        todos los días y todas las noches, relámpago interminable, 4 de febrero
+        de 1992.”
+      </p>
+      <p class="piecita1">
+        Aló presidente Programa Nro. 181 Desde la Universidad Bolivariana del
+        Estado Zulia. Domingo, 8 de febrero de 2004
+      </p>
+      <p class="cita1">
+        “Por la paz del país y por ustedes mismos señores desesperados, o que
+        están llegando al nivel de desespero, yo les recomiendo que se bañen con
+        agua fría, cojan mínimo y aprendan a respetar las instituciones
+        soberanas de la República.” (Refiriéndose a la recolección de firmas
+        para el referéndum revocatorio)
+      </p>
+      <p class="piecita1">
+        Aló presidente Programa Nro. 181 Desde la Universidad Bolivariana del
+        Estado Zulia. Domingo, 8 de febrero de 2004
+      </p>
+      <p class="cita1">
+        “Me dijeron que ayer hubo un huracán en Miranda, el “Huracán Diosdado”,
+        que anda recorriendo los pueblos, los valles, Barlovento y todas estas
+        ciudades, caseríos. Tiene Diosdado un gran reto por delante, pero yo
+        estoy seguro que Diosdado está y va a estar a la altura de la esperanza
+        de los mirandinos y las mirandinas.”
+      </p>
+      <p class="piecita1">
+        Aló Presidente Programa Nro. 186 Desde La Planta De Llenado De Pdvsa En
+        Guatire 28 De marzo De 2004
+      </p>
+      <p class="cita1">
+        “Los campesinos de allá de Elorza pa´ adentro, de Sabaneta pa’ Caño
+        hondo, ahí sí es verdad que se acabó el adecaje; los copeyanos ahí no
+        existen, eso se acabó.”
+      </p>
+      <p class="piecita1">
+        Aló Presidente Programa Nro. 186 Desde La Planta De Llenado De Pdvsa En
+        Guatire 28 De marzo De 2004
+      </p>
+      <p class="cita1">
+        “Unidad, unidad, y unidad, esa debe ser nuestra divisa de todos los
+        bolivarianos, la gente honesta, la gente del pueblo, las clases medias,
+        los pequeños y medianos empresarios, los profesionales, intelectuales,
+        los estudiantes del Zulia, los campesinos, los productores del campo,
+        los indígenas, nuestros hermanos aborígenes, las juventudes, todos.”
+      </p>
+      <p class="piecita1">
+        Aló Presidente Programa Nro. 188 Desde Fuerte Mara, Estado Zulia.
+        Domingo, 11 De abril De 2004
+      </p>
+      <p class="cita1">
+        “Gracias a Dios aquí estoy una vez más junto a ustedes, jóvenes
+        venezolanos, mujeres venezolanas, hombres venezolanos.”
+      </p>
+      <p class="piecita1">
+        Concentración en apoyo al candidato de la Patria en San Carlos, Estado
+        Cojedes. Lunes, 1º de octubre de 2012
+      </p>
+      <p class="cita1">
+        “El sabotaje de este gobernador golpista que está aquí en el Estado
+        Zulia, y que al pueblo le corresponderá el 31 de octubre tomar la
+        decisión acerca de su permanencia o no frente a la gobernación de un
+        estado tan importante como es el Estado Zulia, tan importante para la
+        independencia del país, tan importante para la seguridad, la defensa del
+        país, tan importante para el desarrollo integral del país.”
+      </p>
+      <p class="piecita1">
+        Aló Presidente N° 205 Desde Parque Sur. Estado Zulia Domingo, 26 de
+        septiembre de 2004
+      </p>
+      <p class="cita1">
+        “¿Quieren regresar adecos y copeyanos al Táchira?, ¡no volverán!, ¡no
+        volverán!”
+      </p>
+      <p class="piecita1">
+        Aló Presidente N° 206 Desde la Cooperativa Central Cafetalero Bramón
+        Municipio Junín, Rubio. Estado Táchira Domingo, 03 de octubre de 2004
+      </p>
+      <p class="cita1">
+        “No voy a hacer campaña electoral aquí, pero no volverán.”
+      </p>
+      <p class="piecita1">
+        Aló Presidente N° 206 Desde la Cooperativa Central Cafetalero Bramón
+        Municipio Junín, Rubio. Estado Táchira Domingo, 03 de octubre de 2004
+      </p>
+      <p class="cita1">
+        “Llegó la hora de un nuevo camino y de ese camino nadie nos va a
+        apartar.”
+      </p>
+      <p class="piecita1">
+        Aló Presidente N° 210 Desde el Palacio de Miraflores Domingo 9 de Enero
+        de 2005
+      </p>
+      <p class="cita1">
+        “Llegó la hora del pueblo la hora de la verdad y la hora de la victoria.
+        Pero hay que buscar en la historia los códigos del presente y de
+        futuro.”
+      </p>
+      <p class="piecita1">
+        Aló Presidente N° 213 Desde las instalaciones de la Industria Venezolana
+        Papelera (INVEPAL) Morón. Estado Carabobo. Domingo 20 de Febrero de 2005
+      </p>
+
+      <p class="cita1">
+        “No hay hombres individuales que hagan la historia, sólo los pueblos
+        hacen historia, sólo las masas populares hacen historia: los
+        trabajadores, los hombres, las mujeres, la juventud, los soldados de la
+        patria, los gobernantes.”
+      </p>
+      <p class="piecita1">
+        Aló Presidente N° 213. Desde las instalaciones de la Industria
+        Venezolana Papelera (INVEPAL) Morón. Estado Carabobo. Domingo 20 de
+        Febrero de 2005
+      </p>
+      <p class="cita1">
+        “Hoy el pueblo venezolano ha despertado, ha retomado esas banderas y
+        aquí está construyéndose de nuevo abriendo el camino pero es el mismo
+        camino de Bolívar, es el mismo camino de Zamora. Por eso hoy decimos
+        “Viva la Federación” ¡Viva Zamora! ¡Viva Zamora su grito y su campo y su
+        ejemplo y su lucha!”
+      </p>
+      <p class="piecita1">
+        Aló Presidente N° 213. Desde las instalaciones de la Industria
+        Venezolana Papelera (INVEPAL) Morón. Estado Carabobo. Domingo 20 de
+        Febrero de 2005
+      </p>
+      <p class="cita1">
+        “Tierras y hombres libres, elección popular y horror a la oligarquía las
+        consignas de mi general Zamora que andan en nuestras banderas de lucha y
+        andan en nuestra batalla.”
+      </p>
+      <p class="piecita1">
+        Aló Presidente N° 213. Desde las instalaciones de la Industria
+        Venezolana Papelera (INVEPAL) Morón. Estado Carabobo. Domingo 20 de
+        Febrero de 2005
+      </p>
+      <p class="cita1">
+        “Si algún ejército extranjero sea del tamaño que sea, se le ocurriera
+        algún día la locura de venir a invadir a esta tierra, va a venir aquí a
+        morder el polvo que mordieron los ejércitos invasores en esta sabana, en
+        esa montaña en aquellos mares. Si a alguien se le ocurriera, Venezuela
+        no se mete con nadie, pero que nadie se meta con Venezuela.”
+      </p>
+      <p class="piecita1">
+        Aló Presidente N° 216. Desde el Campo Experimental del INIA Municipio
+        Alberto Arvelo Torrealba. Sabaneta. Estado Barinas Domingo 20 de Marzo
+        de 2005
+      </p>
+      <p class="cita1">
+        “O somos libres o morimos batallando por esta tierra, no hay más
+        alternativa, que no se equivoquen los que están haciendo planes para
+        tratar de frenar esta revolución.”
+      </p>
+      <p class="piecita1">
+        Aló Presidente N° 216 Desde el Campo Experimental del INIA Municipio
+        Alberto Arvelo Torrealba. Sabaneta. Estado Barinas Domingo 20 de Marzo
+        de 2005
+      </p>
+      <p class="cita1">
+        “Si alguien viniera aquí a tratar de arrebatarnos la patria, lo haríamos
+        morder el polvo, como aquí lo hizo el general Páez y los 150 héroes de
+        las Queseras, que hicieron el morder el polvo de Apure a las mejores
+        tropas del Rey de España de entonces.”
+      </p>
+      <p class="piecita1">
+        Aló Presidente N° 217 Desde Las Queseras del Medio. Estado Apure Domingo
+        3 de Abril de 2005
+      </p>
+      <p class="cita1">
+        “Que no se equivoque nadie con nosotros, porque esta es tierra de gente
+        a la que le gusta el canto, la paz y la vida, pero vaya que somos tierra
+        de guerreros, vaya que tenemos en la sangre la semilla de los centauros,
+        la semilla de Miranda; de Sucre, el Gran Mariscal de Ayacucho; la
+        semilla de mi General Bolívar; la semilla de mi General Páez, la mejor
+        lanza del mundo, llegó a decir de él Simón Bolívar.”
+      </p>
+      <p class="piecita1">
+        Aló Presidente N° 217 Desde Las Queseras del Medio. Estado Apure Domingo
+        3 de Abril de 2005
+      </p>
+      <p class="cita1">
+        “Páez, el Centauro, pero los 150 héroes de las Queseras que aquí
+        derrotaron al ejército invasor, forman parte del espíritu de batalla y
+        de victoria que anida en el pueblo apureño y la lanza significa el
+        futuro, significa el pasado y el futuro, significa la lucha, la batalla
+        y la victoria, la lanza apunta hacia adelante, la lanza significa el
+        coraje, la unidad, la fortaleza la capacidad de lucha y de victoria del
+        pueblo venezolano.”
+      </p>
+      <p class="piecita1">
+        Aló Presidente N° 217 Desde Las Queseras del Medio. Estado Apure Domingo
+        3 de Abril de 2005
+      </p>
+      <p class="cita1">
+        “El jalabolas de los yanquis !Ay majunche!, tú no sabes con quién te has
+        metido, porque tú no te estás metiendo con Chávez, te estás metiendo con
+        la dignidad de los trabajadores de la Patria, de las mujeres
+        trabajadoras. ¡Jalabolas, jalabolas tú, majunche!”
+      </p>
+      <p class="piecita1">
+        Encuentro con los trabajadores petroleros Desde el Polideportivo José
+        María Vargas. Edo. Vargas 31 de agosto de 2012
+      </p>
+      <p class="cita1">
+        “Chávez no soy yo, Chávez somos todos y todas, camaradas, hermanas y
+        hermanos.”
+      </p>
+      <p class="piecita1">
+        Encuentro con los trabajadores petroleros Desde el Polideportivo José
+        María Vargas. Edo. Vargas 31 de agosto de 2012
+      </p>
+      <p class="cita1">
+        “Nosotros no podemos permitir que la historia se devuelva, como si no
+        hubiera pasado nada en estos 20 años y más de batalla, de lucha, de
+        mártires que han dado su vida por esta Patria nueva que está
+        construyendo, no lo podemos permitir, no.”
+      </p>
+      <p class="piecita1">
+        Encuentro con los trabajadores petroleros Desde el Polideportivo José
+        María Vargas. Edo. Vargas 31 de agosto de 2012
+      </p>
+      <p class="cita1">
+        “Esta historia nuestra no tiene vuelta atrás, aquí vamos es ¡Pa’lante
+        con el pueblo, Pa’lante con el socialismo, Pa’lante con la revolución!”
+      </p>
+      <p class="piecita1">
+        Encuentro con los trabajadores petroleros Desde el Polideportivo José
+        María Vargas. Edo. Vargas 31 de agosto de 2012
+      </p>
+      <p class="cita1">
+        “Que no nos sorprendan, que no nos agarren descolocados, no, rodilla en
+        tierra, y listos para responder cuando haya que responder, cualquier
+        mentira, cualquier intento ¿de qué? De generar zozobra.”
+      </p>
+      <p class="piecita1">
+        Consejo de Ministros Salón Néstor Kirchner, Palacio de Miraflores 23 de
+        febrero de 2012
+      </p>
+      <p class="cita1">
+        “Le quiero hablar y le voy a seguir hablando y cada día con más
+        contundencia a los pueblos de América Latina a los de Suramérica y a
+        todos los gobiernos, a todos de Centroamérica y del Caribe porque si al
+        imperio yanqui se le ocurriera, utilizando a Colombia o no, pero ya se
+        ve claro por dónde vienen, agredir militarmente a Venezuela e iniciar
+        una guerra contra Venezuela que Dios nos libre, sin embargo aquí
+        comenzaría la “Guerra de los cien años” y esa guerra se extendería por
+        todo este continente sépanlo, sépanlo.”
+      </p>
+      <p class="piecita1">
+        “ALÓ, PRESIDENTE”, programa Nº 343 Desarrollo Urbanístico “Simón
+        Bolívar”. Municipio Páez, Estado Portuguesa Domingo, 8 de noviembre de
+        2009
+      </p>
+      <p class="cita1">
+        “Hoy decir ¡Patria!, es decir ¡Revolución! Sin revolución no habría
+        patria, no habría patria para nadie.”
+      </p>
+      <p class="piecita1">
+        “ALÓ, PRESIDENTE”, programa Nº 343 Desarrollo Urbanístico “Simón
+        Bolívar”. Municipio Páez, Estado Portuguesa Domingo, 8 de noviembre de
+        2009
+      </p>
+      <p class="cita1">
+        “Preferimos venir a la sabana abierta, donde Zamora vive con ustedes y
+        en nosotros, y además donde está cumpliéndose su sueño: tierra y hombres
+        libres, y mujeres libres, y pueblo libre.”
+      </p>
+      <p class="piecita1">
+        “Aló, Presidente” Nº 347 La Platera, municipio Tinaco, estado Cojedes
+        Domingo, 10 de enero de 2010
+      </p>
+      <p class="cita1">
+        “Tenemos que seguir luchando, este año va a ser un año muy importante,
+        este año ha comenzado en batalla, y seguiremos venciendo, batallando y
+        venciendo.”
+      </p>
+      <p class="piecita1">
+        “Aló, Presidente” Nº 347 La Platera, municipio Tinaco, estado Cojedes
+        Domingo, 10 de enero de 2010
+      </p>
+      <p class="cita1">
+        “¡Todos, todos! a la práctica, al entrenamiento y la organización, para
+        la defensa nacional, para la defensa nacional, para que nadie se vaya a
+        equivocar con nosotros. Esta Revolución es pacífica, pero es una
+        ¡Revolución armada!, una Revolución armada.”
+      </p>
+      <p class="piecita1">
+        “Aló, Presidente” Nº 347 La Platera, municipio Tinaco, estado Cojedes
+        Domingo, 10 de enero de 2010
+      </p>
+      <p class="cita1">
+        “Vamos a tener una patria admirable, pueblo admirable, Revolución
+        admirable, comienza la “Campaña Admirable”. Los invito a todos y a
+        todas, como toda campaña necesita un contendor, pues también invito a
+        los adversarios de la Revolución a que se alisten allá del otro lado,
+        porque la batalla será dura y bien buena. Y los derrotaremos otra vez,
+        la “Campaña Admirable”.”
+      </p>
+      <p class="piecita1">
+        “Aló, Presidente” Nº 347 La Platera, municipio Tinaco, estado Cojedes
+        Domingo, 10 de enero de 2010
+      </p>
+      <p class="cita1">
+        “El Sí crece por todas partes porque el SÍ es la patria. El SÍ no es el
+        SÍ solamente, el SÍ es Bolívar, es la esperanza, es el camino a la
+        dignificación del país, es el derecho a la educación para todos gratuita
+        y obligatoria como tiene que ser, es el derecho a la salud para todos,
+        es la vida misma, es el derecho a la cultura, al deporte, la seguridad
+        social. Eso no puede ser privatizado.”
+      </p>
+      <p class="piecita1">
+        Aló Presidente Nro. 23. Desde Mérida, Estado Mérida. Domingo, 5 de
+        diciembre de 1999
+      </p>
+      <p class="cita1">
+        “El SÍ es la protección a los indígenas, a los niños, a nuestros
+        aborígenes, a la ecología, al equilibrio ecológico, es la protección al
+        pequeño empresario, a la microempresa, a los trabajadores, es positivo,
+        los negativos, pobrecitos, yo lo lamento por ellos pero creo dar un KO
+        de nuevo y son los mismos.”
+      </p>
+      <p class="piecita1">
+        Aló Presidente Nro. 23 Desde Mérida, Estado Mérida. Domingo, 5 de
+        diciembre de 1999
+      </p>
+      <p class="cita1">
+        “Somos los patriotas, somos los reconstructores de Venezuela, los
+        bolivarianos, los que hemos levantado la bandera de la dignidad, los que
+        estamos con el SÍ. Por el lado del NO están, sencillamente los que
+        destrozaron al país y uno que otro confundido.”
+      </p>
+      <p class="piecita1">
+        Aló Presidente Nro. 23 Desde Mérida, Estado Mérida. Domingo, 5 de
+        diciembre de 1999
+      </p>
+      <p class="cita1">
+        “Yo aprovecho para llamar a los confundidos, a los que puedan estar
+        atemorizados a que dejen los temores, a que aclaren la vista como dice
+        la Biblia “el que tenga ojos que vea” y a tiempo, les quedan diez días
+        para venirse para las filas patriotas, a las filas del SÍ, a las filas
+        bolivarianas. No se dejen manipular, no se dejen engañar.”
+      </p>
+      <p class="piecita1">
+        Aló Presidente Nro. 23 Desde Mérida, Estado Mérida. Domingo, 5 de
+        diciembre de 1999
+      </p>
+      <p class="cita1">
+        “Nosotros somos de los ejércitos de la luz, no de los ejércitos de la
+        oscuridad, por debajo como la serpiente. Nosotros andamos como el
+        cóndor. Las águilas no cazan moscas.”
+      </p>
+      <p class="piecita1">
+        Aló Presidente Nro. 23 Desde Mérida, Estado Mérida. Domingo, 5 de
+        diciembre de 1999
+      </p>
+      <p class="cita1">
+        “Están asustados porque saben que les queda poco tiempo. El pueblo les
+        va a revocar el mandato si no cumplen con su responsabilidad.” (A los
+        gobernadores y alcaldes de oposición)
+      </p>
+      <p class="piecita1">
+        Aló Presidente Nro. 23 Desde Mérida, Estado Mérida. Domingo, 5 de
+        diciembre de 1999
+      </p>
+
+      <p class="cita1">
+        “En momentos como el que estamos viviendo hay que decirse las verdades.
+        Que cada quién diga lo que crea, lo que piense, eso sí, no hay nadie
+        inmune. Aquí no hay nadie que pueda decir: “yo digo esto y a mí nadie me
+        puede responder”. No señor, el que entre a la batalla, no esté
+        quejándose después. El que entre a la batalla recibirá lo suyo.”
+      </p>
+      <p class="piecita1">
+        Aló Presidente Nro. 24 Aeropuerto de Valencia. Estado Carabobo 12 de
+        Diciembre de 1999
+      </p>
+      <p class="cita1">
+        “En un minuto usted puede convencer a alguien que esté indeciso. En un
+        minuto usted puede encenderle la antorcha bolivariana a alguien que ande
+        en la oscuridad, atemorizado o a alguien que diga que no va a ir a
+        votar. Vaya.”
+      </p>
+      <p class="piecita1">
+        Aló Presidente Nro. 24 Aeropuerto de Valencia. Estado Carabobo 12 de
+        Diciembre de 1999
+      </p>
+      <p class="cita1">
+        “Yo llamo a todos los venezolanos a que arranquemos con fuerza en esta
+        recta final, que nos vayamos, que afinquemos el paso, que redoblemos la
+        marcha en estas horas que faltan para el 15 de diciembre.”
+      </p>
+      <p class="piecita1">
+        Aló Presidente Nro. 24 Aeropuerto de Valencia. Estado Carabobo 12 de
+        Diciembre de 1999
+      </p>
+      <p class="cita1">
+        “Llamo incluso a que icen la Bandera Nacional, porque ese es un día para
+        la Historia, es un día para la Patria, es como un 24 de junio ahora, el
+        15 de diciembre de 1999, es un día para la libertad, para la felicidad,
+        para el optimismo, para la fiesta bolivariana que recorre las calles y
+        los pueblos de toda Venezuela y que he visto con estos ojos en los
+        últimos 10 años de esta ofensiva que hemos abierto y lanzado por todo el
+        país.”
+      </p>
+      <p class="piecita1">
+        Aló Presidente Nro. 24 Aeropuerto de Valencia. Estado Carabobo 12 de
+        Diciembre de 1999
+      </p>
+      <p class="cita1">
+        “La imprenta es la artillería del pensamiento, decía Bolívar.”
+      </p>
+      <p class="piecita1">
+        Aló Presidente Nro. 24 Aeropuerto de Valencia. Estado Carabobo 12 de
+        Diciembre de 1999
+      </p>
+      <p class="cita1">
+        “Venezuela renace, ahora avancemos, más unidos que antes, más unidos que
+        nunca, con la frente en alto, orgullosos de ser venezolano, orgullosos
+        de ser hijos de esta República y de esta patria bolivariana. Orgullosos
+        de levantarnos ante el mundo con nuestro coraje, con nuestra dignidad,
+        con nuestro amor.”
+      </p>
+      <p class="piecita1">
+        Aló Presidente N° 26 Sede de la Radio Nacional de Venezuela 16 enero de
+        2000
+      </p>
+      <p class="cita1">
+        “Se los ruego cuando una obra se detenga, protesten, protesten cuando
+        una obra se detenga.”
+      </p>
+      <p class="piecita1">
+        Asamblea con trabajadores de la CVG, Pdvsa y demás sectores productivos
+        Bolívar, 20 de agosto de 2012
+      </p>
+      <p class="cita1">
+        “Nosotros no nos vamos a meter con nadie, pero si alguien se atreve a
+        meterse con nosotros, se va arrepentir durante 500 años de haberse
+        venido a meter con Venezuela, 500 años por lo menos.”
+      </p>
+      <p class="piecita1">
+        Aló Presidente N° 218 Desde La Puntita de Yuma Rivera del Lago de
+        Valencia. Estado Carabobo Domingo,10 de Abril de 2005
+      </p>
+      <p class="cita1">
+        “Hago un llamado a todo el país, al país serio, al país trabajador, al
+        país que estudia, al país, al país nacional pues, al país nacional. El 7
+        de octubre ahí vamos, ahí estaremos decidiendo el futuro del país, y
+        estoy seguro cual será la decisión de la gran mayoría, continuar en paz
+        construyendo la Patria, la Gran Patria venezolana.”
+      </p>
+      <p class="piecita1">
+        Consejo de Vicepresidentes Desde el Salón Néstor Kirchner. Palacio de
+        Miraflores Caracas, sábado 24 de marzo de 2012
+      </p>
+    </ion-card-content>
+  </ion-card>
+</ion-content>

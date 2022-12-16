@@ -1,0 +1,62 @@
+<ion-toolbar>
+  <ion-searchbar
+    animated
+    showCancelButton="focus"
+    (ionChange)="eventBuscar($event)"
+    placeholder="Buscar Capitulo"
+    debounce="2000"
+  >
+  </ion-searchbar>
+</ion-toolbar>
+
+<ion-content>
+  <ion-list>
+    <ion-item
+      *ngFor="
+        let c of arrayLista | async;
+        let item;
+        of: capituloArr | capitulos: textoBuscar:'titulo'
+      "
+      [routerLink]="c.redirecTo"
+      class="animated fadeIn fast"
+      detail
+      (click)="limpiarBuscar()"
+    >
+      <ion-thumbnail slot="start">
+        <ion-img [src]="c.UrlImg"></ion-img>
+      </ion-thumbnail>
+      <label class="lista">
+        <p class="titulo">{{ c.titulo }}</p>
+      </label>
+    </ion-item>
+  </ion-list>
+
+  <ion-infinite-scroll threshold="10000px" (ionInfinite)="onIonInfinite($event)">
+    <ion-infinite-scroll-content 
+    loadingSpinner="circles"
+    loadingText="Carcando..."
+    ></ion-infinite-scroll-content>
+  </ion-infinite-scroll>
+
+  <ion-list *ngIf="(arrayLista | async) === null">
+    <ion-item *ngFor="let item of [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]"
+      class="animated flash slow infinite">
+      <ion-thumbnail slot="start">
+        <ion-skeleton-text animated width="30%"></ion-skeleton-text>
+      </ion-thumbnail>
+      <ion-label>
+        <p class="titulo">
+          <ion-skeleton-text animated width="35%"></ion-skeleton-text>
+        </p>
+      </ion-label>
+    </ion-item>
+  </ion-list>
+
+  <!-- <ion-infinite-scroll threshold="200px" (ionInfinite)="loadData($event)">
+    <ion-infinite-scroll-content
+      loadingSpinner="dots"
+      loadingText="Cargando ..."
+    >
+    </ion-infinite-scroll-content>
+  </ion-infinite-scroll> -->
+</ion-content>

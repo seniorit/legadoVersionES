@@ -1,0 +1,8 @@
+<ion-tabs>
+  <ion-tab-bar slot="bottom" color="dark">
+    <ion-tab-button *ngFor="let t of (arrayTabs | async)" [tab]="t.linktab">
+      <ion-icon [name]="t.icono" color="danger"></ion-icon>
+      <ion-label>{{t.titulo}}</ion-label>
+    </ion-tab-button>
+  </ion-tab-bar>
+</ion-tabs>

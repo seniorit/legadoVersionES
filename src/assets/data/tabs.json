@@ -1,0 +1,27 @@
+[
+  {
+    "linktab": "portada",
+    "icono": "bookmark",
+    "titulo": "Portada"
+  },
+  {
+    "linktab": "inicio",
+    "icono": "home",
+    "titulo": "Inicio"
+  },
+  {
+    "linktab": "libro",
+    "icono": "book",
+    "titulo": "Libro"
+  },
+  {
+    "linktab": "credito",
+    "icono": "information-circle",
+    "titulo": "Créditos"
+  },
+  {
+    "linktab": "menu",
+    "icono": "menu",
+    "titulo": "Menú"
+  }
+]
